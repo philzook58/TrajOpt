@@ -10,3 +10,13 @@ Enclosed is some experiments in using PyTorch to these ends.
 
 See these blog posts for more.
 
+http://www.philipzucker.com/deducing-row-sparse-matrices-matrix-vector-product-samples/
+
+http://www.philipzucker.com/pytorch-trajectory-optimization-part-5-cleaner-code-50hz/
+
+http://www.philipzucker.com/pytorch-trajectory-optimization-3-plugging-hessian/
+
+http://www.philipzucker.com/pytorch-trajectory-optimization-part-2-work-progress/
+
+http://www.philipzucker.com/pytorch-trajectory-optimization/
+
